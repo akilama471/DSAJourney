@@ -1,145 +1,154 @@
-# DSA Learning Journey
+# 🚀 DSA Learning Journey
 
-### Learn. Understand. Practice. Solve. Improve.
+### 📚 Learn. Understand. Practice. Master.
 
 Welcome to my **Data Structures and Algorithms (DSA) Learning Journey**!
 
 This repository documents my journey of learning and mastering Data Structures and Algorithms through theoretical concepts, practical implementations, coding exercises, and problem-solving challenges.
 
-My goal is to develop a strong foundation in computer science, improve logical thinking, and become a better software engineer through consistent practice.
+My goal is to strengthen my computer science fundamentals, improve logical thinking, and develop efficient problem-solving skills.
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 **Akila Madhushanka**
 
-- GitHub: [@akilama471](https://github.com/akilama471)
-- GitHub Profile: https://github.com/akilama471
-- CodeJourney: [Programming Language Learning Journey](https://github.com/akilama471/CodeJourney)
+- 💻 Software Developer
+- 🌐 GitHub: [@akilama471](https://github.com/akilama471)
+- 📂 Repository: [DSAJourney](https://github.com/akilama471/DSAJourney)
 
 ---
 
-## Learning Objectives
+## 🎯 Learning Objectives
 
-- Understand fundamental and advanced data structures.
-- Learn how different algorithms work and when to use them.
-- Develop efficient problem-solving techniques.
-- Understand time and space complexity.
-- Analyze and optimize algorithm performance.
-- Improve logical thinking and programming skills.
-- Apply DSA concepts to real-world software development problems.
+- 🧠 Understand fundamental Data Structures and Algorithms.
+- ⚡ Analyze and improve algorithm efficiency.
+- 📊 Understand Time and Space Complexity.
+- 💡 Develop logical and analytical thinking.
+- 🛠️ Implement data structures and algorithms through coding.
+- 🧩 Solve programming challenges independently.
+- 🚀 Learn to write clean, optimized, and maintainable code.
 
 ---
 
-## Data Structures
+## 📖 Learning Topics
 
-My learning journey covers the following data structures:
+### 1. 📦 Data Structures
 
-| Category | Topics |
+- Arrays
+- Strings
+- Linked Lists
+- Stacks
+- Queues
+- Hash Tables
+- Sets
+- Trees
+- Binary Search Trees
+- Heaps and Priority Queues
+- Graphs
+- Tries
+
+### 2. ⚙️ Algorithms
+
+- Searching Algorithms
+- Sorting Algorithms
+- Recursion
+- Backtracking
+- Divide and Conquer
+- Greedy Algorithms
+- Dynamic Programming
+- Graph Algorithms
+- Tree Traversal Algorithms
+- String Matching Algorithms
+
+### 3. 📈 Algorithm Analysis
+
+- Time Complexity
+- Space Complexity
+- Big O Notation
+- Big Omega Notation
+- Big Theta Notation
+- Best, Average, and Worst-Case Analysis
+- Algorithm Optimization
+
+### 4. 🧩 Problem-Solving Techniques
+
+- Two Pointers
+- Sliding Window
+- Fast and Slow Pointers
+- Prefix Sum
+- Binary Search on Answer
+- Monotonic Stack
+- Topological Sorting
+- Union-Find (Disjoint Set Union)
+- Bit Manipulation
+
+---
+
+## 🛠️ Programming Languages
+
+I will use programming languages to implement and practice Data Structures and Algorithms.
+
+| Language | Purpose |
 |---|---|
-| Linear Data Structures | Arrays, Linked Lists, Stacks, Queues |
-| Non-Linear Data Structures | Trees, Binary Trees, Binary Search Trees, Graphs |
-| Hash-Based Structures | Hash Tables, Hash Maps, Hash Sets |
-| Advanced Data Structures | Heaps, Tries, Disjoint Set Union |
-| Specialized Structures | Priority Queues, Deques, Circular Queues |
-
-## Algorithms
-
-| Category | Topics |
-|---|---|
-| Searching | Linear Search, Binary Search |
-| Sorting | Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, Heap Sort |
-| Recursion | Recursion, Backtracking |
-| Graph Algorithms | BFS, DFS, Dijkstra's Algorithm, Bellman-Ford |
-| Tree Algorithms | Tree Traversal, Searching, Insertion, Deletion |
-| Dynamic Programming | Memoization, Tabulation, Classic DP Problems |
-| Greedy Algorithms | Activity Selection, Fractional Knapsack |
-| String Algorithms | Pattern Matching, String Manipulation |
-| Mathematical Algorithms | GCD, LCM, Prime Numbers, Sieve of Eratosthenes |
-
-*Topics will expand as I progress through the learning journey.*
+| 🐘 PHP | Data structure and algorithm implementations |
+| 🐍 Python | Algorithm practice and problem-solving |
+| ⚙️ C++ | Performance-oriented implementations |
+| 🦀 Rust | Memory-safe and efficient implementations |
+| 🐹 Go | Practical algorithm implementations |
 
 ---
 
-## Complexity Analysis
+## 📅 Learning Approach
 
-Understanding algorithm efficiency is an important part of this journey.
+My learning process follows these steps:
 
-I will practice analyzing:
-
-- **Time Complexity:** How execution time grows with input size.
-- **Space Complexity:** How memory usage grows with input size.
-- **Big O Notation:** Upper-bound analysis of algorithm performance.
-- **Big Omega (Ω):** Lower-bound analysis.
-- **Big Theta (Θ):** Tight-bound analysis.
-
-### Common Time Complexities
-
-| Complexity | Name |
-|---|---|
-| O(1) | Constant |
-| O(log n) | Logarithmic |
-| O(n) | Linear |
-| O(n log n) | Linearithmic |
-| O(n²) | Quadratic |
-| O(n³) | Cubic |
-| O(2ⁿ) | Exponential |
-| O(n!) | Factorial |
+1. 📚 **Learn** — Understand the concept and its fundamentals.
+2. 🔍 **Analyze** — Study how the data structure or algorithm works.
+3. 💻 **Implement** — Write implementations using programming languages.
+4. 🧪 **Experiment** — Test different inputs and edge cases.
+5. 🧩 **Practice** — Solve related coding problems.
+6. ⚡ **Optimize** — Improve time and space complexity.
+7. 📝 **Document** — Record important concepts and lessons learned.
 
 ---
 
-## Learning Approach
+## 🏆 Long-Term Goals
 
-I follow a practical, concept-driven learning approach:
-
-1. **Understand:** Learn the fundamental concepts and underlying principles.
-2. **Analyze:** Understand how algorithms work and evaluate their complexity.
-3. **Implement:** Write implementations and experiment with different approaches.
-4. **Practice:** Solve problems related to each topic.
-5. **Optimize:** Improve solutions by considering time and space complexity.
-6. **Document:** Record important concepts, observations, and lessons learned.
+- Master fundamental and advanced data structures.
+- Understand algorithm design and optimization.
+- Improve problem-solving speed and accuracy.
+- Build a strong foundation in computer science.
+- Become confident in solving complex programming problems.
+- Apply algorithmic thinking to real-world software development.
 
 ---
 
-## Programming Languages
+## 📊 Progress Tracking
 
-I will use programming languages from my programming learning journey to implement and practice DSA concepts.
+This repository will continuously evolve as I learn new concepts, implement algorithms, and solve more problems.
 
-- C++
-- Go
-- Python
-- Rust
-- Other languages as needed.
+Progress will be documented through practical implementations, exercises, and learning notes.
 
 ---
 
-## Progress Tracking
+## 🤝 Connect With Me
 
-This repository is an ongoing learning project. Topics and implementations will be added progressively as I continue learning.
-
-My focus is on understanding concepts deeply rather than simply completing problems.
-
----
-
-## Related Repository
-
-**[CodeJourney](https://github.com/akilama471/CodeJourney)**
-
-My programming language learning journey, covering language fundamentals, practical exercises, examples, and projects.
+- 🌐 GitHub: [akilama471](https://github.com/akilama471)
+- 📚 CodeJourney: [Programming Language Learning Journey](https://github.com/akilama471/CodeJourney)
+- 🚀 DSAJourney: [Data Structures and Algorithms](https://github.com/akilama471/DSAJourney)
 
 ---
 
-## Learning Philosophy
+## 📜 License
 
-> Great programmers are not built by memorizing solutions. They are built by understanding problems, exploring possibilities, and continuously improving.
-
----
-
-## License
-
-This repository is licensed under the [GNU General Public License v3.0](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Keep Learning. Keep Practicing. Keep Solving.**
+### 💡 Learning Never Stops!
+
+> "Great developers are not just good at writing code; they are good at solving problems."
+
+**Keep Learning. Keep Practicing. Keep Improving. 🚀**
